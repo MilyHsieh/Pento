@@ -414,6 +414,7 @@ header{
     }
     .ingredient_bg_l,.ingredient_bg_r{
         overflow-x: hidden;
+        overflow-y: hidden;
         display: block;
         width: 23%;
         max-width: 350px;
